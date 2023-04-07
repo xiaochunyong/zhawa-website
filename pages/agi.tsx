@@ -35,10 +35,10 @@ export default function Home() {
               虽然AGI的发展还面临着许多技术和伦理方面的挑战，但这一领域的研究一直在不断推进。随着越来越多的科学家和工程师加入AGI的研究中，相信未来不久的将来，我们会看到更加先进和智能的AGI系统的出现，为人类带来更多的帮助和便利。</p>
             <div className="flex justify-center">
               <button
-                className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button
+                className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">模型浏览
               </button>
               <button
-                className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Button
+                className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">试用
               </button>
             </div>
           </div>
